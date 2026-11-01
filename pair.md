@@ -1,1 +1,2 @@
-# Pair Extraordinaire Achievement\nCo-authored with Mona Lisa Octocat!
+# Pair Extraordinaire Achievement
+Co-authored commit merged via Pull Request.
